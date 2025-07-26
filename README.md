@@ -54,6 +54,15 @@
 <a href="https://www.leetcode.com/mirthika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirthika" height="30" width="40" /></a>
 </p>
 
+---
+### *✨ Quote I Live By*
+<p align="center">
+  <em>"I believe in growing quietly and letting my work speak when the time is right."</em>
+</p>
+
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirthikagiri&show_icons=true&locale=en&layout=compact" alt="mirthikagiri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirthikagiri&show_icons=true&locale=en" alt="mirthikagiri" /></p>
+
+
