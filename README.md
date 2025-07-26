@@ -1,5 +1,5 @@
 <h1 align="left">Hey there, I'm Mirthika G</h1>
-<h3 align="left">Pre-final year CSE student at CITAR</h3>
+<h3 align="left">Pre-final year CSE student at Chennai Institute of Technology and Applied Research</h3>
 
 
  🌱 *I’m deeply interested in building solutions that blend technology, creativity, and real-world impact. Currently on a journey to master Full Stack Development & AI-driven applications, while solving challenging problems through competitive coding and hands-on projects*
